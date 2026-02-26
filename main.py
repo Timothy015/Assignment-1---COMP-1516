@@ -1,4 +1,3 @@
-# Timothy Langille
 import sys
 import data
 import grade_stats
@@ -44,3 +43,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
